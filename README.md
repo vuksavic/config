@@ -4,7 +4,7 @@ configs, dotfiles, installation notes
 these are all used when installing archlinux, but should work for any other distribution
 
 ## setting correct system locale for time, date and currency, while keeping english as the primary system language
-i work with a lot of documents in serbian latin and cyrillic, so i like having my system set to the appropriate time and date notation, without changing the system language.
+i work with a lot of documents in serbian latin and cyrillic, so i like having my system set to the appropriate time, date and currency notation, without changing the system language.
 
 to do this, i run the following commands:
 
